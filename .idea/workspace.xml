@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d5d5328-7a7e-43ee-bbbe-c151ec66a8bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Controller/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Controller/UI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Auto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Citire.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Citire.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/View/Afisare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/View/Afisare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculator/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculator/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculatorul/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculatorul/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CautBinar/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CautBinar/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CharAt/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CharAt/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/bin/CitireIntreg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/bin/CitireIntreg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitireCar/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitireCar/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitireCar/bin/CitireC.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitireCar/bin/CitireC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaMasina/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaMasina/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaMasina/bin/Aplicatie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaMasina/bin/Aplicatie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaMasina/bin/Masina.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaMasina/bin/Masina.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaNimic/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaNimic/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaNimic/bin/Aplicatie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaNimic/bin/Aplicatie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaNimic/bin/Nimic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ClasaNimic/bin/Nimic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCal/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCal/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCal/bin/Aplic1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCal/bin/Aplic1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCal/bin/DataCalendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCal/bin/DataCalendar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCalendaristica/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCalendaristica/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCalendaristica/bin/DataCal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCalendaristica/bin/DataCal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCalendaristica/bin/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataCalendaristica/bin/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataNrZile/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataNrZile/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataNrZile/bin/NrZile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataNrZile/bin/NrZile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataNrZile/bin/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/DataNrZile/bin/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Divizori/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Divizori/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Divizori/bin/Divizori.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Divizori/bin/Divizori.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExBreak/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExBreak/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExBreak/bin/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExBreak/bin/Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExContinue/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExContinue/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExContinue/bin/Continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExContinue/bin/Continue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Exceptii/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Exceptii/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/bin/Persoana.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/bin/Persoana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/bin/TestPersoana.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/bin/TestPersoana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/FluviuLungime/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/FluviuLungime/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Naturale/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Naturale/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/bin/NutritionFacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/bin/NutritionFacts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/bin/Aplicatie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/bin/Aplicatie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/bin/NutritionFacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/bin/NutritionFacts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie2/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie2/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OperatiiAritmetice/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OperatiiAritmetice/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OperatiiAritmetice/bin/Operatii.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OperatiiAritmetice/bin/Operatii.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/Executie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/Executie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale321/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale321/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale322/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale322/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale323/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale323/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RelatiaBazaDerivata/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RelatiaBazaDerivata/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/SplitNumere/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/SplitNumere/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Tablouri/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Tablouri/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/domain/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/operations/StudentService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/ui/StudentConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/ui/StudentConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/domain/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../8.Baze-date/SQL_syntax.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="1iKSBc6aQu68SbPL1WQXZWth5ma" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.EmployeeMockTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.EmployeeMockTest.modifyEmployeeFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Angajati [exec:java].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alexandraclaudiabrad/Learning/Postuniversitara/11.Testare/Labs/Proiecte/Angajati&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\VVTA\VVTA2020-2021\Labs\Exemplu\Angajati\src\main\java" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="AngajatiApp.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.EmployeeMockTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeMockTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Angajati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AngajatiApp.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AngajatiApp.repository" />
+      <option name="MAIN_CLASS_NAME" value="AngajatiApp.repository.EmployeeMockTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeMockTest.modifyEmployeeFunction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Angajati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AngajatiApp.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AngajatiApp.repository" />
+      <option name="MAIN_CLASS_NAME" value="AngajatiApp.repository.EmployeeMockTest" />
+      <option name="METHOD_NAME" value="modifyEmployeeFunction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Angajati [exec:java]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="compile" />
+                <option value="exec:java" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EmployeeMockTest" />
+        <item itemvalue="JUnit.EmployeeMockTest.modifyEmployeeFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-abbd5a8d" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-3183f394aec4-74f1fbcb" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d5d5328-7a7e-43ee-bbbe-c151ec66a8bc" name="Default Changelist" comment="" />
+      <created>1601654658073</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601654658073</updated>
+      <workItem from="1601654659331" duration="361000" />
+      <workItem from="1633100074763" duration="542000" />
+      <workItem from="1633100712427" duration="1207000" />
+      <workItem from="1696515210539" duration="362000" />
+      <workItem from="1696770013638" duration="84000" />
+      <workItem from="1727879304355" duration="4305000" />
+      <workItem from="1727944001383" duration="1743000" />
+      <workItem from="1727948791213" duration="1849000" />
+      <workItem from="1729868302021" duration="11609000" />
+      <workItem from="1729942480581" duration="24000" />
+      <workItem from="1730355147013" duration="527000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Angajati_iml$EmployeeMockTest.ic" NAME="EmployeeMockTest Coverage Results" MODIFIED="1729941073373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>AngajatiApp.repository.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="simpleUML.UMLToolWindowPlugin">
+    <General>
+      <option name="birdViewUpdateDelay" value="2000" />
+      <option name="defaultFileLocation" value="file://$PROJECT_DIR$/.." />
+    </General>
+    <Classdiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="defaultFieldsExpanded" value="false" />
+      <option name="defaultContructorsExpanded" value="false" />
+      <option name="defaultMethodsExpanded" value="false" />
+      <option name="showParameters" value="true" />
+      <option name="showTooltip" value="true" />
+      <option name="showReturnValues" value="true" />
+      <option name="longModifier" value="true" />
+      <option name="implementsBehaviour" value="1" />
+      <option name="extendsBehaviour" value="1" />
+      <option name="compartmentBehaviour" value="1" />
+      <option name="interfaceBackgroundColor" value="-6494306" />
+      <option name="abstractClassBackgroundColor" value="-1580132" />
+      <option name="classBackgroundColor" value="-6508057" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="quickSourceLinkColor" value="-16776961" />
+      <option name="quickDiagramLinkColor" value="-8454144" />
+      <option name="drawDecorations" value="false" />
+      <option name="hideFieldList" value="" />
+      <option name="showFieldList" value="" />
+      <option name="hideConstructorList" value="" />
+      <option name="showConstructorList" value="" />
+      <option name="hideMethodList" value="" />
+      <option name="showMethodList" value="" />
+      <option name="minimumFigureSize" value="0,0" />
+    </Classdiagram>
+    <Dependencydiagram>
+      <option name="diagramTitleFont" value="SansSerif,1,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="0" />
+    </Dependencydiagram>
+    <Packagediagram>
+      <option name="diagramTitleFont" value="SansSerif,0,12" />
+      <option name="diagramFont" value="SansSerif,0,10" />
+      <option name="packageBackgroundColor" value="-4144960" />
+      <option name="diagramBackgroundColor" value="-1" />
+      <option name="useAntialiasedConnectors" value="true" />
+      <option name="packageNameCompressionLevel" value="2" />
+    </Packagediagram>
+  </component>
+</project>

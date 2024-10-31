@@ -1,0 +1,12 @@
+AngajatiApp\validator\EmployeeValidator.class
+AngajatiApp\controller\DidacticFunction.class
+AngajatiApp\model\Employee.class
+AngajatiApp\validator\EmployeeException.class
+AngajatiApp\model\AgeCriteria.class
+AngajatiApp\repository\EmployeeRepositoryInterface.class
+AngajatiApp\controller\EmployeeController.class
+AngajatiApp\view\EmployeeView.class
+AngajatiApp\repository\EmployeeImpl.class
+AngajatiApp\model\SalaryCriteria.class
+AngajatiApp\main\StartApp.class
+AngajatiApp\repository\EmployeeMock.class
