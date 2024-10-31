@@ -7,6 +7,7 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -65,7 +66,7 @@ class EmployeeMockTest {
     void modifyEmployee_TC02() {
         List<DidacticFunction> originalFunctions = repoMock.getEmployeeList().stream()
                 .map(Employee::getFunction)
-                .toList();
+                .collect(Collectors.toList());
 
         repoMock.modifyEmployeeFunction(null, DidacticFunction.LECTURER);
         for (int i = 0; i < repoMock.getEmployeeList().size(); i++) {

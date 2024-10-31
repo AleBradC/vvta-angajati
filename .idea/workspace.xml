@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5d5328-7a7e-43ee-bbbe-c151ec66a8bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/bin/Exemplu.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" afterDir="false" />
@@ -316,7 +315,7 @@
       <workItem from="1729942480581" duration="24000" />
       <workItem from="1730355147013" duration="527000" />
       <workItem from="1730355752364" duration="297000" />
-      <workItem from="1730356327492" duration="8403000" />
+      <workItem from="1730356327492" duration="8651000" />
     </task>
     <servers />
   </component>
