@@ -5,8 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5d5328-7a7e-43ee-bbbe-c151ec66a8bc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Angajati.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/controller/DidacticFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/controller/EmployeeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/main/StartApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/model/AgeCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/model/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/model/SalaryCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/repository/EmployeeImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/repository/EmployeeMock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/repository/EmployeeRepositoryInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/validator/EmployeeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/validator/EmployeeValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/view/EmployeeView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/AngajatiApp/repository/EmployeeMockTest.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/bin/Exemplu.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" afterDir="false" />
@@ -127,12 +146,17 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="1iKSBc6aQu68SbPL1WQXZWth5ma" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.StartApp.executor": "Run",
     "JUnit.EmployeeMockTest.executor": "Run",
     "JUnit.EmployeeMockTest.modifyEmployeeFunction.executor": "Run",
     "JUnit.EmployeeValidatorTest.executor": "Run",
@@ -167,7 +191,7 @@
       <recent name="AngajatiApp.validator" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.EmployeeMockTest">
+  <component name="RunManager" selected="Application.StartApp">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -175,6 +199,19 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AngajatiApp.main.StartApp" />
+      <module name="Angajati" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AngajatiApp.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -263,6 +300,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StartApp" />
         <item itemvalue="JUnit.EmployeeMockTest" />
         <item itemvalue="JUnit.EmployeeValidatorTest" />
         <item itemvalue="JUnit.EmployeeMockTest.modifyEmployeeFunction" />
@@ -297,7 +335,7 @@
       <workItem from="1729942480581" duration="24000" />
       <workItem from="1730355147013" duration="527000" />
       <workItem from="1730355752364" duration="297000" />
-      <workItem from="1730356327492" duration="5725000" />
+      <workItem from="1730356327492" duration="7499000" />
     </task>
     <servers />
   </component>
@@ -314,6 +352,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Angajati_iml$EmployeeMockTest.ic" NAME="EmployeeMockTest Coverage Results" MODIFIED="1729941073373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
