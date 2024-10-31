@@ -5,19 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5d5328-7a7e-43ee-bbbe-c151ec66a8bc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AngajatiApp/repository/EmployeeMockTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/bin/Exemplu.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/bin/Labirint.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/bin/Lie.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Controller/UI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Controller/UI.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Auto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Auto.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Citire.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/Model/Citire.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/View/Afisare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Autoturisme/bin/View/Afisare.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculator/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculator/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculator/bin/Calculate.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculatorul/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculatorul/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculatorul/bin/Calculator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Calculatorul/bin/Calculator.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Catalog1/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CautBinar/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CautBinar/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CautBinar/bin/CautBinAplic.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CharAt/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CharAt/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/bin/CitireIntreg.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/CitIntreg/bin/CitireIntreg.class" afterDir="false" />
@@ -50,6 +58,8 @@
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/bin/TestPersoana.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/ExempluClasaSimpla/bin/TestPersoana.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/FluviuLungime/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/FluviuLungime/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Naturale/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Naturale/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Naturale/bin/Aplicatie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Naturale/bin/Natural.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/bin/NutritionFacts.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie/bin/NutritionFacts.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Nutritie1/.project" afterDir="false" />
@@ -63,13 +73,24 @@
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/B.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/Executie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/OverloadingOverride/bin/Executie.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/bin/Aplicatie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/bin/Rational.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RationalNou/bin/SistemLiniar.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale321/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale321/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale321/bin/Aplicatie1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale321/bin/Rational.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale322/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale322/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale322/bin/Aplicatie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale322/bin/Rational.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale323/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale323/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale323/bin/Aplicatie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Rationale323/bin/Rational.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RelatiaBazaDerivata/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/RelatiaBazaDerivata/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/SplitNumere/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/SplitNumere/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Tablouri/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Tablouri/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Tablouri/bin/AplicatieVect1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/Tablouri/bin/Vector.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/TestButon/bin/TestNumarare$2.class" afterDir="false" />
@@ -78,7 +99,10 @@
       <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/domain/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/operations/StudentService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/ui/StudentConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service-part2/bin/main/ro/ubb/studentsapp/ui/StudentConsole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/domain/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/domain/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/operations/StudentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/operations/StudentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/ui/StudentConsole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../6.OOP/Curs/Curs2-prof/oop-ui-service/bin/main/ro/ubb/studentsapp/ui/StudentConsole.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../8.Baze-date/SQL_syntax.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +118,10 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -104,29 +131,30 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.EmployeeMockTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.EmployeeMockTest.modifyEmployeeFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Angajati [exec:java].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/alexandraclaudiabrad/Learning/Postuniversitara/11.Testare/Labs/Proiecte/Angajati&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.EmployeeMockTest.executor": "Run",
+    "JUnit.EmployeeMockTest.modifyEmployeeFunction.executor": "Run",
+    "JUnit.EmployeeValidatorTest.executor": "Run",
+    "Maven.Angajati [exec:java].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/alexandraclaudiabrad/Learning/Postuniversitara/11.Testare/Labs/Proiecte/Angajati",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\VVTA\VVTA2020-2021\Labs\Exemplu\Angajati\src\main\java" />
@@ -136,6 +164,7 @@
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="AngajatiApp.repository" />
+      <recent name="AngajatiApp.validator" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.EmployeeMockTest">
@@ -177,6 +206,15 @@
       <option name="MAIN_CLASS_NAME" value="AngajatiApp.repository.EmployeeMockTest" />
       <option name="METHOD_NAME" value="modifyEmployeeFunction" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeValidatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Angajati" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EmployeeValidatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -226,6 +264,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.EmployeeMockTest" />
+        <item itemvalue="JUnit.EmployeeValidatorTest" />
         <item itemvalue="JUnit.EmployeeMockTest.modifyEmployeeFunction" />
       </list>
     </recent_temporary>
@@ -257,6 +296,8 @@
       <workItem from="1729868302021" duration="11609000" />
       <workItem from="1729942480581" duration="24000" />
       <workItem from="1730355147013" duration="527000" />
+      <workItem from="1730355752364" duration="297000" />
+      <workItem from="1730356327492" duration="5725000" />
     </task>
     <servers />
   </component>
