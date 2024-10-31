@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d5d5328-7a7e-43ee-bbbe-c151ec66a8bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Angajati.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/controller/DidacticFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/controller/EmployeeController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/main/StartApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/model/AgeCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/model/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/model/SalaryCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/repository/EmployeeImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/repository/EmployeeMock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/repository/EmployeeRepositoryInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/validator/EmployeeException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/validator/EmployeeValidator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AngajatiApp/view/EmployeeView.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/AngajatiApp/repository/EmployeeMockTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/.project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AfisariFormatate/bin/Exemplu.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../3.Algorithms/Exemple/AlgoritmulLee/.project" afterDir="false" />
@@ -173,8 +154,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
@@ -191,7 +172,7 @@
       <recent name="AngajatiApp.validator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StartApp">
+  <component name="RunManager" selected="JUnit.EmployeeMockTest">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -300,8 +281,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StartApp" />
         <item itemvalue="JUnit.EmployeeMockTest" />
+        <item itemvalue="Application.StartApp" />
         <item itemvalue="JUnit.EmployeeValidatorTest" />
         <item itemvalue="JUnit.EmployeeMockTest.modifyEmployeeFunction" />
       </list>
@@ -335,7 +316,7 @@
       <workItem from="1729942480581" duration="24000" />
       <workItem from="1730355147013" duration="527000" />
       <workItem from="1730355752364" duration="297000" />
-      <workItem from="1730356327492" duration="7499000" />
+      <workItem from="1730356327492" duration="8403000" />
     </task>
     <servers />
   </component>
